@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twitter Client</string>
+    <string name="login_label">Connect to Twitter</string>
+    <string name="title_activity_timeline">Home</string>
+    <string name="title_activity_tweet">Tweet</string>
+    <string name="bLogin">Sign In</string>
+    <string name="action_settings">Compose</string>
+    <string name="bClose">Close</string>
+    <string name="compose_tweet_etHint">What\'s happening?</string>
+    <string name="ivProfile">Profile</string>
+    <string name="send_tweet_label">Tweet</string>
+    <string name="max_tweet_length">140</string>
+    <string name="tvRetweets"> RETWEETS</string>
+    <string name="tvFavourites"> FAVORITES</string>
+    <string name="bTweet"> Tweet </string>
+    <string name="ivLogo"> logo</string>
+    <string name="miCharacterCount"> 140</string>
+    <string name="tvWelcomeMessage">Hello!!! Welcome to Twitter Client</string>
+    <string name="no_internet_error">Please check your internet connection</string>
+</resources>
