@@ -51,7 +51,9 @@ Here's a walkthrough of implemented user stories:
 <img src='twitter_client_walkthrough' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
-
+<br/>
+ <IMG src="Twitter_Client_Walkthrough.gif"/>
+<br/>
 ## Notes
 
 Describe any challenges encountered while building the app.
